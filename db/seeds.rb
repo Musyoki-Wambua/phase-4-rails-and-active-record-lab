@@ -3,5 +3,6 @@
 #
 # Examples:
 #
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
+#    student = Student.create(first_name: 'Wambua', last_name:  'Musyoki')
 #   Character.create(name: 'Luke', movie: movies.first)
+
